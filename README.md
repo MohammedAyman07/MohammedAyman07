@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Mohammed Ayman S — AY Digital Lab" width="100%" />
+<img src="./banner.svg" alt="Mohammed Ayman S — Software Developer" width="100%" />
 
 ### SOFTWARE DEVELOPER · AI/ML · FULL-STACK · GAME DEVELOPMENT
 
@@ -40,6 +40,11 @@ FOCUS
 ---
 
 ## `03` — FEATURED WORK
+
+### 🎮 BOUNZO
+Mobile game currently under development.
+
+**Focus:** Godot · GDScript · gameplay systems · mobile UI · touch controls · ads · performance · Android
 
 ### 🛡️ [CyberShield](https://github.com/MohammedAyman07/CyberShield)
 Cybersecurity scanning and analysis project.
@@ -127,6 +132,6 @@ Custom Shopify theme development project.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohammedAyman07-111827?style=for-the-badge&logo=github)](https://github.com/MohammedAyman07)
 
-**MOHAMMED AYMAN S · AY DIGITAL LAB**
+**MOHAMMED AYMAN S**
 
 </div>
