@@ -1,12 +1,10 @@
 <div align="center">
 
-# MOHAMMED AYMAN S
+<img src="./banner.svg" alt="Mohammed Ayman S — AY Digital Lab" width="100%" />
 
 ### SOFTWARE DEVELOPER · AI/ML · FULL-STACK · GAME DEVELOPMENT
 
 **BUILD · INNOVATE · IMPACT**
-
-[![GitHub](https://img.shields.io/badge/GitHub-MohammedAyman07-111827?style=for-the-badge&logo=github)](https://github.com/MohammedAyman07)
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ## `01` — ABOUT ME
 
-I'm Mohammed Ayman, a developer focused on building practical software products, AI-powered applications, web experiences, Android apps, and games.
+I'm Mohammed Ayman S, a developer focused on building practical software products, AI-powered applications, web experiences, Android apps, and games.
 
 I enjoy taking an idea from **concept → development → testing → release**.
 
@@ -36,32 +34,42 @@ FOCUS
 | 🧠 AI / ML | AI-powered applications, automation and intelligent tools |
 | `</>` Web | Full-stack applications and modern web experiences |
 | 📱 Mobile | Android applications and mobile-first interfaces |
-| 🎮 Games | Mobile games and interactive experiences with Godot |
+| 🎮 Games | Interactive experiences and game development |
 | 🛠 Tools | Calculators, utilities and developer-focused products |
 
 ---
 
 ## `03` — FEATURED WORK
 
-### 🎮 BOUNZO
-Mobile hyper-casual game built with Godot and GDScript.
-
-**Focus:** gameplay systems · mobile UI · touch controls · ads · performance · Android
-
-### 🧠 AI Study Platform
-AI-powered learning tools designed around practical study workflows.
-
-**Focus:** AI APIs · web application · education tools · structured answers
-
-### 🧮 AY Calculator
-All-in-one calculator platform for web and Android.
-
-**Focus:** JavaScript · UI/UX · calculation logic · mobile development
-
-### 🛡️ CyberShield
+### 🛡️ [CyberShield](https://github.com/MohammedAyman07/CyberShield)
 Cybersecurity scanning and analysis project.
 
 **Focus:** Python · security concepts · analysis tools
+
+### 🎨 [AI Imagine App](https://github.com/MohammedAyman07/AI-IMAGINE-APP)
+Android application project focused on AI-powered image experiences.
+
+**Focus:** Android · application development · AI integration
+
+### 🧮 [AY All-in-One Calculator — Web](https://github.com/MohammedAyman07/AY-ALL-IN-ONE-CALCULATORWEBSITE-)
+Web-based all-in-one calculator project.
+
+**Focus:** JavaScript · UI/UX · calculation logic · responsive web
+
+### 📱 [AY All-in-One Calculator — Android](https://github.com/MohammedAyman07/AY-ALL-IN-ONE-CALCULATOR-APP)
+Android calculator application project.
+
+**Focus:** Android · mobile UI · calculation logic
+
+### 🎮 [Choose Game for Students](https://github.com/MohammedAyman07/choose-game-for-students)
+Interactive student-focused game project.
+
+**Focus:** game logic · interaction · web development
+
+### 🛍️ [Shopify Theme](https://github.com/MohammedAyman07/shopifytheme)
+Custom Shopify theme development project.
+
+**Focus:** Shopify · Liquid · storefront UI · responsive design
 
 ---
 
@@ -87,11 +95,11 @@ Cybersecurity scanning and analysis project.
 ● BOUNZO
   Mobile game development and release preparation
 
-● AI STUDY PLATFORM
-  AI-powered learning features and study workflows
+● AI / SOFTWARE PROJECTS
+  Building practical applications and developer tools
 
-● WEB & DEVELOPER UTILITIES
-  Practical tools and digital products
+● WEB & DIGITAL PRODUCTS
+  Modern websites, utilities and digital products
 
 ● ANDROID APPLICATIONS
   Mobile productivity and utility apps
@@ -115,10 +123,10 @@ Cybersecurity scanning and analysis project.
 
 ## `07` — LET'S CONNECT
 
-If you're interested in software development, AI, games, or building products, feel free to connect.
-
 <div align="center">
 
-**MOHAMMED AYMAN · DIGITAL LAB**
+[![GitHub](https://img.shields.io/badge/GitHub-MohammedAyman07-111827?style=for-the-badge&logo=github)](https://github.com/MohammedAyman07)
+
+**MOHAMMED AYMAN S · AY DIGITAL LAB**
 
 </div>
