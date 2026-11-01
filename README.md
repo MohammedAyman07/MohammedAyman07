@@ -1,137 +1,181 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Mohammed Ayman S — Software Developer" width="100%" />
+<img src="./banner.svg" alt="Mohammed Ayman S — Full-Stack & AI Software Engineer" width="100%" />
 
-### SOFTWARE DEVELOPER · AI/ML · FULL-STACK · GAME DEVELOPMENT
+# Mohammed Ayman S
+### **Full-Stack Software Engineer · AI Systems & WebGL · Production-Ready Applications**
 
-**BUILD · INNOVATE · IMPACT**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ayman-s-661396289)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAyman07)
+[![Live Deployments](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MohammedAyman07)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedayman770@gmail.com)
+
+<p align="center">
+  <strong>Building reliable, user-first web applications with modern TypeScript/React, multi-model AI architectures, cryptographic security, and hardware-accelerated 3D graphics.</strong>
+</p>
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+## 👨‍💻 About Me
 
-I'm Mohammed Ayman S, a developer focused on building practical software products, AI-powered applications, web experiences, Android apps, and games.
+I am a software engineer focused on turning complex engineering challenges into clean, accessible, and high-performance digital products. My work spans the full lifecycle of software development: from architecting serverless cloud backends and integrating cryptographic payment pipelines to orchestrating multi-LLM AI models and crafting 60fps WebGL interactive experiences.
 
-I enjoy taking an idea from **concept → development → testing → release**.
+- 🔭 **What I’m Building:** Full-stack AI applications, production e-commerce architectures, and developer tooling.
+- ⚙️ **Core Engineering Focus:** Zero-latency UX, multi-provider API failovers, cryptographic signature verification (HMAC-SHA256), and responsive, accessible interfaces.
+- 💼 **Career Goal:** Open for **Full-Stack Software Engineer**, **Frontend Engineer (React/TypeScript)**, and **AI Application Engineer** roles.
+
+---
+
+## 🛠 Technical Skills & Ecosystem
+
+<table>
+  <tr>
+    <td width="25%"><strong>Frontend & UI</strong></td>
+    <td>
+      <code>TypeScript</code> · <code>JavaScript (ES6+)</code> · <code>React 19</code> · <code>Next.js / Vite</code> · <code>Tailwind CSS</code> · <code>KaTeX Math Engine</code> · <code>HTML5 / CSS3</code> · <code>Framer Motion</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & APIs</strong></td>
+    <td>
+      <code>Node.js</code> · <code>Python (Flask)</code> · <code>Express.js</code> · <code>Vercel Serverless Functions</code> · <code>RESTful APIs</code> · <code>JWT Authentication</code> · <code>CORS / Webhooks</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML & Orchestration</strong></td>
+    <td>
+      <code>Google Gemini 2.5 Flash</code> · <code>Groq Cloud (Llama 3.3 70B, Qwen)</code> · <code>Hugging Face (FLUX.1 Diffusion)</code> · <code>Multi-LLM Fallback Architecture</code> · <code>Prompt Engineering</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security & Payments</strong></td>
+    <td>
+      <code>Razorpay Payment Gateway</code> · <code>HMAC-SHA256 Cryptographic Verification</code> · <code>Google OAuth 2.0</code> · <code>Zero-Trust API Key Isolation</code> · <code>Rate Limiting</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3D Graphics & E-Commerce</strong></td>
+    <td>
+      <code>Three.js</code> · <code>WebGL Shader / Canvas Optimization</code> · <code>Shopify Liquid</code> · <code>Storefront APIs</code> · <code>Godot Engine (GDScript)</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>
+      <code>Git</code> · <code>GitHub Actions (CI/CD)</code> · <code>Vercel Cloud</code> · <code>npm</code> · <code>Postman</code> · <code>Lighthouse Auditing (95+ Scores)</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Production Projects
+
+### 1. [AYMAN STUDY AI — Full-Stack AI STEM Learning Platform](https://github.com/MohammedAyman07/ayman-study-ai)
+> **Multi-LLM educational platform with real-time KaTeX mathematical rendering, Google OAuth authentication, and cryptographically verified payment processing.**
+
+- **Architecture & System Design:**
+  - Implemented an automated multi-model fallback pipeline: if the primary high-throughput LLM (`Groq Llama-3.3-70b`) experiences rate limits or network latency, queries seamlessly transition to `Google Gemini 2.5 Flash` with zero client interruption.
+  - Engineered a mathematical parsing engine transforming LaTeX formatting into responsive, real-time math notation via `rehype-katex` and `remark-math`.
+  - Built full serverless backend endpoints (`/api/auth`, `/api/chat`, `/api/payment`) featuring strict JWT token validation, user state persistence, and credit-metered access.
+- **Cryptographic Security:** End-to-end Razorpay integration with server-side HMAC-SHA256 signature verification matching `crypto.createHmac('sha256', secret)` against webhooks before crediting transactions.
+- **Stack:** `React 19` · `TypeScript` · `Tailwind CSS` · `Vite` · `Vercel Serverless` · `Google OAuth 2.0` · `Razorpay` · `KaTeX`
+- 🌐 **Live Demo:** [ayman-study-ai.vercel.app](https://ayman-study-ai.vercel.app)
+
+---
+
+### 2. [DailyScroll — 3D WebGL Hardware-Accelerated Shopify Storefront](https://github.com/MohammedAyman07/dailyscroll-shopify-theme)
+> **Ultra-responsive dark-mode e-commerce storefront driven by an interactive 3D WebGL hero orb and dependency-free Vanilla JS architecture.**
+
+- **Architecture & Performance:**
+  - Designed an interactive 3D procedural sphere using `Three.js` and WebGL with custom lighting, point lights, and dynamic mouse-tracking physics.
+  - Maintained 60fps animations by managing render loops with `requestAnimationFrame` and clamping WebGL canvas pixel ratios for lower-end hardware.
+  - Utilized `IntersectionObserver` for non-blocking scroll reveal animations and zero-layout-shift UI interactions.
+  - Built a Node.js static generation pipeline (`build.js`) extracting native `.liquid` templates into lightweight HTML previews for instant public accessibility.
+- **Stack:** `Shopify Liquid` · `JavaScript (ES6+)` · `Three.js / WebGL` · `CSS3 Grid/Flexbox` · `Node.js` · `Vercel`
+- 🌐 **Live Demo:** [dailyscroll-shopify-theme.vercel.app](https://dailyscroll-shopify-theme.vercel.app/)
+
+---
+
+### 3. [AI Image Generator — Generative Diffusion Web App](https://github.com/MohammedAyman07/ai-image-generator)
+> **Lightweight text-to-image application generating high-resolution digital art using the state-of-the-art FLUX.1 diffusion model.**
+
+- **Architecture & Highlights:**
+  - Built a clean Python & Flask backend interfacing with the Hugging Face Serverless Inference API for low-latency image generation.
+  - Developed a modern, glassmorphic UI with prompt sanitization, real-time loading feedback, and direct one-click asset downloads.
+  - Packaged and configured for instant zero-cold-start cloud deployment on Vercel.
+- **Stack:** `Python` · `Flask` · `Hugging Face API (FLUX.1)` · `HTML5 / CSS3` · `Vercel Cloud`
+- 🌐 **Live Demo:** [ai-image-generator-three-iota.vercel.app](https://ai-image-generator-three-iota.vercel.app/)
+
+---
+
+### 4. [AY WebSelling — Digital Asset Marketplace](https://github.com/MohammedAyman07/aywebselling-marketplace)
+> **High-speed static digital marketplace and SSG pipeline for responsive web templates and developer assets.**
+
+- **Architecture & Highlights:**
+  - Optimized client-side template discovery with instant category filtering, real-time modal previews, and cart drawer management.
+  - Scored 99+ on Google Lighthouse across Performance, Accessibility, Best Practices, and SEO.
+- **Stack:** `JavaScript (ES6+)` · `HTML5 Semantic Markup` · `Modular CSS` · `SSG Pipeline` · `Vercel CDN`
+- 🌐 **Live Demo:** [aywebselling-marketplace.vercel.app](https://aywebselling-marketplace.vercel.app)
+
+---
+
+### 5. [Padimachi — Engineering & Academic Resource Portal](https://github.com/MohammedAyman07/padimachi-education-portal)
+> **Curriculum-aligned educational platform providing structured study guides, chapter solutions, and synthesized audio walkthroughs for university students.**
+
+- **Architecture & Highlights:**
+  - Built an integrated audio answer player utilizing the Web Speech API to provide auditory accessibility for technical textbook questions.
+  - Organized hierarchical subject trees for engineering mathematics, physics, and programming foundations.
+- **Stack:** `HTML5` · `CSS3` · `JavaScript` · `Web Speech API` · `Responsive UI Design`
+- 🌐 **Live Demo:** [padimachi-education-portal.vercel.app](https://padimachi-education-portal.vercel.app/)
+
+---
+
+## 💡 Engineering Philosophy & Coding Standards
 
 ```text
-FOCUS
-├── AI / Machine Learning
-├── Full-Stack Web Development
-├── Android Development
-├── Game Development with Godot
-└── Developer Tools & Digital Products
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. PRODUCTION OVER PROTOTYPES                                         │
+│    Code is only as valuable as its reliability in the hands of users. │
+│    Every project is deployed live with zero console errors.           │
+│                                                                        │
+│ 2. DEFENSIVE SECURITY BY DEFAULT                                       │
+│    Zero client-side secrets. Cryptographic validation (HMAC-SHA256)   │
+│    for all financial webhooks, sanitized inputs, and isolated tokens. │
+│                                                                        │
+│ 3. PERFORMANCE & ACCESSIBILITY FIRST                                  │
+│    Sub-second load times, 60fps animations with requestAnimationFrame, │
+│    semantic HTML, and strict Lighthouse optimization (95+ score).     │
+│                                                                        │
+│ 4. RESILIENT ARCHITECTURE                                              │
+│    Always build multi-provider failover strategies for external APIs  │
+│    so users never see a broken screen when a third party is down.     │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `02` — WHAT I BUILD
+## 📊 GitHub Analytics
 
-| AREA | FOCUS |
-|---|---|
-| 🧠 AI / ML | AI-powered applications, automation and intelligent tools |
-| `</>` Web | Full-stack applications and modern web experiences |
-| 📱 Mobile | Android applications and mobile-first interfaces |
-| 🎮 Games | Interactive experiences and game development |
-| 🛠 Tools | Calculators, utilities and developer-focused products |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAyman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Mohammed Ayman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAyman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
 
 ---
 
-## `03` — FEATURED WORK
+## 🤝 Let's Connect & Collaborate
 
-### 🎮 BOUNZO
-Mobile game currently under development.
-
-**Focus:** Godot · GDScript · gameplay systems · mobile UI · touch controls · ads · performance · Android
-
-### 🛡️ [CyberShield](https://github.com/MohammedAyman07/CyberShield)
-Cybersecurity scanning and analysis project.
-
-**Focus:** Python · security concepts · analysis tools
-
-### 🎨 [AI Imagine App](https://github.com/MohammedAyman07/AI-IMAGINE-APP)
-Android application project focused on AI-powered image experiences.
-
-**Focus:** Android · application development · AI integration
-
-### 🧮 [AY All-in-One Calculator — Web](https://github.com/MohammedAyman07/AY-ALL-IN-ONE-CALCULATORWEBSITE-)
-Web-based all-in-one calculator project.
-
-**Focus:** JavaScript · UI/UX · calculation logic · responsive web
-
-### 📱 [AY All-in-One Calculator — Android](https://github.com/MohammedAyman07/AY-ALL-IN-ONE-CALCULATOR-APP)
-Android calculator application project.
-
-**Focus:** Android · mobile UI · calculation logic
-
-### 🎮 [Choose Game for Students](https://github.com/MohammedAyman07/choose-game-for-students)
-Interactive student-focused game project.
-
-**Focus:** game logic · interaction · web development
-
-### 🛍️ [Shopify Theme](https://github.com/MohammedAyman07/shopifytheme)
-Custom Shopify theme development project.
-
-**Focus:** Shopify · Liquid · storefront UI · responsive design
-
----
-
-## `04` — TECH STACK
-
-**Languages**
-
-`Python` `JavaScript` `HTML` `CSS` `SQL` `GDScript`
-
-**Development**
-
-`React` `Node.js` `Android` `Godot` `Git` `GitHub`
-
-**AI / ML**
-
-`AI APIs` `Machine Learning` `Automation` `Computer Vision`
-
----
-
-## `05` — CURRENTLY BUILDING
-
-```text
-● BOUNZO
-  Mobile game development and release preparation
-
-● AI / SOFTWARE PROJECTS
-  Building practical applications and developer tools
-
-● WEB & DIGITAL PRODUCTS
-  Modern websites, utilities and digital products
-
-● ANDROID APPLICATIONS
-  Mobile productivity and utility apps
-```
-
----
-
-## `06` — DEVELOPMENT PRINCIPLES
-
-```text
-01  Build something useful
-02  Keep the code understandable
-03  Test before release
-04  Fix the root cause, not only the symptom
-05  Keep improving
-```
-
-> **Code is not just what I write. It's how I solve problems.**
-
----
-
-## `07` — LET'S CONNECT
+I am actively open to discussing **Software Engineering**, **Full-Stack Development**, and **Frontend Engineering** opportunities. Whether you have an open role, an interesting technical challenge, or want to discuss system architecture, feel free to reach out!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohammedAyman07-111827?style=for-the-badge&logo=github)](https://github.com/MohammedAyman07)
+[![LinkedIn Profile](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ayman-s-661396289)
+[![GitHub Profile](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAyman07)
+[![Send an Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedayman770@gmail.com)
 
-**MOHAMMED AYMAN S**
+**Mohammed Ayman S · Chennai, India**
 
 </div>
