@@ -98,3 +98,7 @@ I welcome conversations with AI teams, software engineers, mentors, and recruite
 *Building, learning, testing, and improving—one project at a time.*
 
 </div>
+
+## Repository Licensing
+
+Unless a repository contains a separate third-party or project-specific notice, my original portfolio project code is proprietary and all rights are reserved by Mohammed Ayman S. Public repositories are provided for viewing and technical evaluation only. Please check each repository's `LICENSE` file for its specific terms. Third-party libraries, assets, datasets, and other materials remain subject to their respective licences.
