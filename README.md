@@ -19,7 +19,6 @@ Building practical AI-powered applications with Python, LLM APIs, computer visio
   <a href="https://github.com/MohammedAyman07"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=MohammedAyman07&style=flat&color=blue)
 
 </div>
 
