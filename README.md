@@ -160,8 +160,8 @@ I am a software engineer focused on turning complex engineering challenges into 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAyman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Mohammed Ayman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAyman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAyman07&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Mohammed Ayman's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedAyman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 ---
