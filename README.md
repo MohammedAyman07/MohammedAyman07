@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="Mohammed Ayman S — AI & Machine Learning Engineering" width="100%" />
+<img src="./ai-ml-banner.svg" alt="Mohammed Ayman S — AI & Machine Learning Engineering" width="100%" />
 
 # Mohammed Ayman S
 
