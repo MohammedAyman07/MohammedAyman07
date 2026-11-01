@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Ayman S — AI and Machine Learning Engineer</title>
+  <desc id="desc">A dark navy technology banner featuring AI and machine learning, generative AI, LLMs, computer vision, Python, a neural network and an AI processor illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1b"/><stop offset=".55" stop-color="#11143a"/><stop offset="1" stop-color="#071a2b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity=".28"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8ba4d8" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <circle cx="1290" cy="180" r="280" fill="url(#glow)"/>
+  <circle cx="1280" cy="180" r="130" fill="#2563eb" opacity=".08" filter="url(#soft)"/>
+  <path d="M0 410 C220 330 320 490 530 405 S830 315 1010 400 S1300 470 1500 340" fill="none" stroke="url(#accent)" stroke-opacity=".26" stroke-width="2"/>
+  <path d="M0 440 C220 360 320 520 530 435 S830 345 1010 430 S1300 500 1500 370" fill="none" stroke="url(#accent)" stroke-opacity=".18" stroke-width="1.5"/>
+  <g fill="#eaf4ff" font-family="Arial,Helvetica,sans-serif">
+    <text x="72" y="165" font-size="64" font-weight="700" letter-spacing="1.5">MOHAMMED AYMAN S</text>
+    <text x="76" y="230" font-size="34" font-weight="600" letter-spacing="2.5" fill="#60c9ff">AI &amp; MACHINE LEARNING ENGINEER</text>
+    <text x="78" y="295" font-size="23" font-weight="600" letter-spacing="1.2">GENERATIVE AI  •  LLMs  •  COMPUTER VISION  •  PYTHON</text>
+  </g>
+  <rect x="76" y="326" width="590" height="5" rx="2.5" fill="url(#accent)"/>
+  <g stroke="url(#accent)" stroke-width="2" fill="none" opacity=".8">
+    <path d="M1030 120L1110 85L1180 145L1260 85L1350 125L1410 65M1030 120L1080 210L1180 145L1220 240L1350 125L1390 230M1080 210L1170 300L1220 240L1320 315L1390 230"/>
+    <path d="M1260 85L1260 35M1350 125L1430 125M1220 240L1160 240M1320 315L1320 365"/>
+  </g>
+  <g fill="#111b3c" stroke="#4cc9f0" stroke-width="3">
+    <circle cx="1030" cy="120" r="11"/><circle cx="1110" cy="85" r="11"/><circle cx="1180" cy="145" r="11"/><circle cx="1260" cy="85" r="11"/><circle cx="1350" cy="125" r="11"/><circle cx="1410" cy="65" r="11"/><circle cx="1080" cy="210" r="11"/><circle cx="1220" cy="240" r="11"/><circle cx="1390" cy="230" r="11"/><circle cx="1170" cy="300" r="11"/><circle cx="1320" cy="315" r="11"/>
+  </g>
+  <g transform="translate(1280 230)">
+    <rect x="-62" y="-62" width="124" height="124" rx="18" fill="#0b2441" stroke="#22d3ee" stroke-width="4"/>
+    <rect x="-48" y="-48" width="96" height="96" rx="12" fill="#0e3152" opacity=".8"/>
+    <text x="0" y="16" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#a5f3fc">AI</text>
+    <g stroke="#22d3ee" stroke-width="4" stroke-linecap="round">
+      <path d="M-82 -35H-62M-82 0H-62M-82 35H-62M62 -35H82M62 0H82M62 35H82M-35 -82V-62M0 -82V-62M35 -82V-62M-35 62V82M0 62V82M35 62V82"/>
+    </g>
+  </g>
+  <text x="1420" y="450" text-anchor="end" fill="#c3d4ee" font-family="monospace" font-size="18" letter-spacing="3">BUILD  /  TRAIN  /  DEPLOY</text>
+</svg>
